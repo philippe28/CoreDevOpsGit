@@ -1,6 +1,6 @@
 # CoreDevOpsGit
 
-The project makes use of the libgit2 library in its version for .Net in a console application that, after reading a configuration file, shows the repositories available for download, hopes to obtain the user's option and finally executes the option chosen.
+The project makes use of the libgit2 library in its version for .Net in a console application. This software helps delploying multiple repositories configured in a config file.
 
 ## Requirements
 
